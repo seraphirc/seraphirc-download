@@ -109,6 +109,9 @@ Passwords are stored using your operating system’s secure keyring where suppor
 
 `/notify` opens the Notify List manager. `/notify nick optional comment` toggles a nick on or off the notify list for the active network.
 
+You can see the full list here:
+https://www.seraphirc.chat/#available-commands
+
 ---
 
 ## Privacy and Security
@@ -145,6 +148,7 @@ Please test:
 * Reconnect behavior
 * Theme switching
 * Desktop notifications and sound preferences
+* ZNC/Soju (per-network) functionality
 
 When reporting issues, include:
 
