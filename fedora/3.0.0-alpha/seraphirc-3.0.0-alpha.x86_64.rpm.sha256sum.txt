@@ -1,0 +1,1 @@
+009536b6e35b713f8a35d53ead2cc9d39f111f718f5e180b194b8caf76c3d07c  seraphirc-3.0.0-alpha.x86_64.rpm
