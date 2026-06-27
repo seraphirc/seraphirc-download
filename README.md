@@ -1,6 +1,6 @@
 # SeraphIRC
 
-**SeraphIRC v2.5.0-alpha**
+**SeraphIRC v3.0.0-alpha**
 
 A modern desktop IRC client built with Go, Wails, and SQLite.
 
@@ -42,7 +42,7 @@ Download the `.deb` package from the `/debian` directory in this repository.
 Then install it with:
 
 ```bash
-sudo apt install ./seraphirc_2.5.0-alpha_amd64.deb
+sudo apt install ./seraphirc_3.0.0-alpha_amd64.deb
 ```
 
 After installation, launch SeraphIRC from your desktop application menu.
@@ -56,7 +56,7 @@ Download the `.rpm` package from the `/fedora` directory in this repository.
 Then install it with:
 
 ```bash
-sudo dnf install ./seraphirc-2.5.0-alpha.x86_64.rpm
+sudo dnf install ./seraphirc-3.0.0-alpha.x86_64.rpm
 ```
 
 After installation, launch SeraphIRC from your desktop application menu.

@@ -4,7 +4,7 @@
 
 | Version       | Supported          |
 | --------------| ------------------ |
-| 2.5.0-alpha   | ✅                 |
+| 3.0.0-alpha   | ✅                 |
 
 
 ## Reporting a Vulnerability
