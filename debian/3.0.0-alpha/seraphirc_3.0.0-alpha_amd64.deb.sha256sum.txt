@@ -1,1 +1,1 @@
-5116bf8290aa17e6de43623bcfff2428a281cb0aeaf5980d5e7835ccf4f56dbd  seraphirc_3.0.0-alpha_amd64.deb
+b738a14920f2de7b111794df63d0124fb48ec64c53ae1ee829f50567aad879ce  seraphirc_3.0.0-alpha_amd64.deb
