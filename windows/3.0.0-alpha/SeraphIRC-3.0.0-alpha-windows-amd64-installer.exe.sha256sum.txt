@@ -1,1 +1,1 @@
-56506fa101f7d2123db6b2319fc4300b5b0388a0fa2a21d8d1faf4c00ca5441d  SeraphIRC-3.0.0-alpha-windows-amd64-installer.exe
+1aea8f10097dc30a0643bcc32acb9a681131f25d401961e9f642acf3454dbffd  SeraphIRC-3.0.0-alpha-windows-amd64-installer.exe
