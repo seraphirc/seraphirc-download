@@ -1,1 +1,1 @@
-3cb8f2f440cb2fad2289e2420a85c9f188331802c0774416c7ac378440fc4c2e  SeraphIRC-3.0.0-alpha-windows-amd64-portable.exe
+b4f39a21d33ca52ece52a149d922bd06ebc30d9e9b72fad364947aea48215571  SeraphIRC-3.0.0-alpha-windows-amd64-portable.exe
