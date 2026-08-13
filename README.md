@@ -115,7 +115,7 @@ Security-conscious behavior is intentional. SeraphIRC prefers user control over 
 
 For general support questions:
 
-**[team@seraphirc.chat](mailto:team@seraphirc.chat)**
+**[support@seraphirc.chat](mailto:support@seraphirc.chat)**
 
 For security disclosures or privacy issues:
 
