@@ -1,0 +1,1 @@
+813ffa58c4b73d2a0c8882b8ed41597505aecc636fbfffd17828c54a59343891  SeraphIRC-5.1.2-macos-universal.dmg
