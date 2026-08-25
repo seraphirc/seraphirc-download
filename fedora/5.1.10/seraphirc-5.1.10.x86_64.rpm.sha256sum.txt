@@ -1,0 +1,1 @@
+6cc83918b10b0f2d9e837b992a5cadb72e6182d41abd6dc6850ec07a1d0b6c45  seraphirc-5.1.10.x86_64.rpm
