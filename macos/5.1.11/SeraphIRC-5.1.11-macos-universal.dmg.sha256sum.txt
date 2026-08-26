@@ -1,0 +1,1 @@
+5491a59423e36d45af64d1ebd6a0bb29c592e6b89a09c82863fd350cdcdd86aa  SeraphIRC-5.1.11-macos-universal.dmg
