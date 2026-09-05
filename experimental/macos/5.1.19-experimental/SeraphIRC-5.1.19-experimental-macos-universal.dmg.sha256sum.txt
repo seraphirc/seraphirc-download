@@ -1,1 +1,0 @@
-df2a745387ad09f0cac577c5ace90c7356d8509648f8b129b0ed6e9599695b10  SeraphIRC-5.1.19-experimental-macos-universal.dmg
