@@ -1,0 +1,1 @@
+efd5a416734fa7fd2130b70fb2a7d83c215d3254ba94fc30bd582cae5e524bd1  seraphirc_5.1.24_amd64.deb
