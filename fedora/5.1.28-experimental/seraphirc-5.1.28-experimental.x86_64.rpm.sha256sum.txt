@@ -1,0 +1,1 @@
+34ff2bfc09d4e73aba3a10da9869f5c4c3d8f3eda6eb6a11a40f8ff047266a86  seraphirc-5.1.28-experimental.x86_64.rpm
