@@ -1,0 +1,1 @@
+23c7f1535db661ad98081dfc84f63896413dcb3fceaa3f118eaa86bbdc16bb38  seraphirc-6.0.9.x86_64.rpm
