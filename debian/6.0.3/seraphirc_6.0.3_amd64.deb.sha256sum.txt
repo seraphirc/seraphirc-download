@@ -1,1 +1,0 @@
-9dddc10fbe25f8ec62cf18aafff417debd659b2fccdeb693d1b5b01a283f0dde  seraphirc_6.0.3_amd64.deb
