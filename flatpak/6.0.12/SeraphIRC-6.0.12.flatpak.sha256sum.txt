@@ -1,0 +1,1 @@
+cfa900ea57c0e57ce22a57653152c1d3f5c3285fe42434cd9ccb209c04a87544  SeraphIRC-6.0.12.flatpak
