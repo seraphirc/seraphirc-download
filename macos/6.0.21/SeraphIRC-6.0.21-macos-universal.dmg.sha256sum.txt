@@ -1,0 +1,1 @@
+ecef99c95307a23f6acacdc6ca070cf3c976ec444c6bd1736f58ec0e0e35d414 *SeraphIRC-6.0.21-macos-universal.dmg
