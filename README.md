@@ -8,7 +8,7 @@ SeraphIRC is designed for people who still care about IRC but want a cleaner, sa
 
 ## Highlights
 
-* Layered windows and tiles
+* Layered windows and tiles that are detachable
 * Modern desktop UI or classic IRC views available
 * SQLite-backed local chat history
 * Secure password storage using the operating system keyring
@@ -92,7 +92,7 @@ On first launch, you will encounter the setup wizard. From here, choose whether 
 
 
 You can see the full list here:
-https://www.seraphirc.chat/#commands
+https://www.seraphirc.chat/docs/#command-basics
 
 ---
 
