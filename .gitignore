@@ -1,0 +1,8 @@
+# The packaging scripts stage each version's packages here, and
+# scripts/publish-github-release.sh uploads them as GitHub release assets.
+# They are not committed.
+/debian/
+/fedora/
+/flatpak/
+/macos/
+/windows/

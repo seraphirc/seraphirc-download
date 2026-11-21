@@ -31,9 +31,11 @@ SeraphIRC is designed for people who still care about IRC but want a cleaner, sa
 
 ## Installation
 
+Every package is on the [latest release](https://github.com/seraphirc/seraphirc-download/releases/latest), with a `.sha256sum.txt` file to check it against. Windows is on the Microsoft Store.
+
 ### Debian / Ubuntu
 
-Download the `.deb` package from the `/debian` directory in this repository.
+Download the `.deb` package from the latest release.
 
 Then install it with:
 
@@ -47,7 +49,7 @@ After installation, launch SeraphIRC from your desktop application menu.
 
 ### Fedora
 
-Download the `.rpm` package from the `/fedora` directory in this repository.
+Download the `.rpm` package from the latest release.
 
 Then install it with:
 
@@ -61,7 +63,7 @@ After installation, launch SeraphIRC from your desktop application menu.
 
 ### Flatpak
 
-Download the `.flatpak` package from the `/flatpak` directory in this repository.
+Download the `.flatpak` package from the latest release.
 
 Then install it with:
 
@@ -73,7 +75,7 @@ flatpak install --bundle SeraphIRC-<version>.flatpak
 
 ### macOS
 
-Download the .dmg file and click/drag to install as normal.
+Download the `.dmg` file from the latest release and drag SeraphIRC to Applications.
 
 ---
 
